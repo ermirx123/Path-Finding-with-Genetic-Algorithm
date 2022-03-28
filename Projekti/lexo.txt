@@ -1,0 +1,35 @@
+
+
+Per testim shtypeni :
+
+numri grupeve te testimit = 7
+numri i krijesave = 500
+numri i skemes = 7
+numri i madhesis = 8
+
+Me thjesht shkruani vlerat 7,500,7,8 me renditje qe kerkohen.
+
+
+
+
+
+Skemat 0,1,2,3,4 jane perafersisht me ato qe keni kerkuar, ndersa skemat 5,6 i kam medifikuar
+si skemen qe ju keni kerkuar vetem kam shtuar gjera ekstra.
+
+Skema 6 gjeneron pengesa random te madhesis 1 ne plan.
+
+
+Ne fillim vendosni  numrin e grupimeve te krijesave,
+pastaj numrin e krijesave,
+pastaj zgjedh skemen qe kerkohet prej 0,1,2,3,4,5,6 nese zgjedh gabim do te gjenerohet nje random
+prej skemave qe jane te krijuar.
+pastaj zgjedh masen e skemes [7,8,9,10,11,12], nese zgjidh gabim apet do te gjenerohet nje random.
+
+
+
+Si forme testimi merr kete shembull 
+
+numri grupeve te testimit = 7
+numri i krijesave = 500
+numri i skemes = 4
+numri i madhesis = 8
